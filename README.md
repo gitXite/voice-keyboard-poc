@@ -1,2 +1,2 @@
 # voice-keyboard-poc
-Python proof of concept for an Android keyboard with voice-to-key bias
+Proof of concept for an Android keyboard that takes voice input and generates a keypress bias depending on phonemes. 
